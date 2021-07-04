@@ -1,0 +1,36 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+html {
+  display: table;
+}
+
+canvas {
+  width: 900px;
+  height: 200px;
+  display: block;
+  position: relative;
+  background: transparent;
+  margin: 40px auto;
+}
+/*canvas:hover
+{
+  background-color: orange;
+}*/
+
+body {
+  background: #000000;
+  /*background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/12399/free-pumpkin-wallpaper-25771-26455-hd-wallpapers.jpg");*/
+  background-position: top center;
+  background-size: cover;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
