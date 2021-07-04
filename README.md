@@ -1,11 +1,11 @@
-# CES-MMMUT
+# CES-MMMUT presents Wield The Web
 ![CES-MMMUT](https://socialify.git.ci/arpit456jain/CES-MMMUT/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Farpit456jain%2FCES-MMMUT%2Fmaster%2Fimg%2Fces2.png&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
-  [![Number of Contributors](https://img.shields.io/github/contributors/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/graphs/contributors)
-  [![Issues opened](https://img.shields.io/github/issues/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/issues)
-  [![Issues closed](https://img.shields.io/github/issues-closed/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/issues)
-  [![PRs open](https://img.shields.io/github/issues-pr/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/pulls)
-  [![PRs closed](https://img.shields.io/github/issues-pr-closed/arpit456jain/CES-MMMUT)](https://github.com/arpit456jain/CES-MMMUT/pulls)
-  ![Repo size](https://img.shields.io/github/repo-size/arpit456jain/CES-MMMUT)
+  [![Number of Contributors](https://img.shields.io/github/contributors/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/graphs/contributors)
+  [![Issues opened](https://img.shields.io/github/issues/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/issues)
+  [![Issues closed](https://img.shields.io/github/issues-closed/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/issues)
+  [![PRs open](https://img.shields.io/github/issues-pr/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/pulls)
+  [![PRs closed](https://img.shields.io/github/issues-pr-closed/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/pulls)
+  ![Repo size](https://img.shields.io/github/repo-size/arpit456jain/Wield-The-Web)
   
   ### 💻 Tech Stack
 
