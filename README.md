@@ -99,6 +99,8 @@ Are you a Newbie in programming and want to dive deep into it?
 	<br><sub><b> Kaustuch Srivastava </b></sub><br>💻 </a></td></a></td>
 	<td align="center"><a href="https://github.com/Apoorv0503"><img alt="" src="https://avatars.githubusercontent.com/Apoorv0503" width="70px;">
 	<br><sub><b> Apoorv Dwivedi </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/svaibhav53425"><img alt="" src="https://avatars.githubusercontent.com/svaibhav53425" width="70px;">
+	<br><sub><b> Vaibhav Sharma </b></sub><br>💻 </a></td></a></td>
 </tr>
 </tbody></table>
 <br>
