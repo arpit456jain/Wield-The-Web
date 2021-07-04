@@ -84,6 +84,8 @@ Are you a Newbie in programming and want to dive deep into it?
 	<br><sub><b> SaumyaSrivastava </b></sub><br>💻 </a></td></a></td>
 	 <td align="center"><a href="https://github.com/srhsoumya"><img alt="" src="https://avatars.githubusercontent.com/srhsoumya" width="70px;">
 	<br><sub><b> Soumya Gupta </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/namita27"><img alt="" src="https://avatars.githubusercontent.com/namita27" width="70px;">
+	<br><sub><b> Namita Chaudhary </b></sub><br>💻 </a></td></a></td>
   </tr>
  
   <tr>
