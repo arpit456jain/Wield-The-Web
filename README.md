@@ -103,17 +103,7 @@ Are you a Newbie in programming and want to dive deep into it?
 </tbody></table>
 <br>
 
-### Credit goes to these people:✨
 
-<table>
-	<tr>
-		 <td>
-  <a href="https://github.com/arpit456jain/CES-MMMUT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=arpit456jain/ces-mmmut" />
-  </a>
-		</td>
-	</tr>
-</table>
 
 <hr>
 
