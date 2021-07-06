@@ -23,7 +23,7 @@
 23 []() <br>
 24 []() <br>
 25 []() <br>
-26 []() <br>
+26 [Shruti Singh](singhshruti0902@gmail.com) <br>
 27 []() <br>
 28 []() <br>
 29 []() <br>
