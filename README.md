@@ -65,7 +65,6 @@ Are you a Newbie in programming and want to dive deep into it?
 <ul>
 <li><h3>Go in Pull Request Section</h3></li>
 <li><h3>Create New Pull Request</h3></li>
-<li><h3>Create New Pull Request</h3></li>
 <li><h3>Add Title,  Description & Create Pull Request</h3></li>
 <li><h3>That's It You have Succesfully Created a Pull Request</h3></li>
 </ul>
