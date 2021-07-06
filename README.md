@@ -51,8 +51,9 @@ Are you a Newbie in programming and want to dive deep into it?
 <li><h3>Project Cloned in System</h3></li>
 <li><h3>Make Required changes on a new branch and then commit your chnages by </h3></li>
 
+`$ git checkout -b branchname`
 
-`$ git git -A `
+`$ git add -A `
 
 `$ git commit -a -m "message" `
 
