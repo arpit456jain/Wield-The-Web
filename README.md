@@ -51,8 +51,9 @@ Are you a Newbie in programming and want to dive deep into it?
 <li><h3>Project Cloned in System</h3></li>
 <li><h3>Make Required changes on a new branch and then commit your chnages by </h3></li>
 
+`$ git checkout -b branchname`
 
-`$ git git -A `
+`$ git add -A `
 
 `$ git commit -a -m "message" `
 
@@ -63,7 +64,6 @@ Are you a Newbie in programming and want to dive deep into it?
 <h2>Creating Pull Request on Github</h2>
 <ul>
 <li><h3>Go in Pull Request Section</h3></li>
-<li><h3>Create New Pull Request</h3></li>
 <li><h3>Create New Pull Request</h3></li>
 <li><h3>Add Title,  Description & Create Pull Request</h3></li>
 <li><h3>That's It You have Succesfully Created a Pull Request</h3></li>
