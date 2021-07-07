@@ -15,7 +15,7 @@
 15 []() <br>
 16 []() <br>
 17 []() <br>
-18 [Naveen kushwaha](naveen1nk) <br>
+18 []() <br>
 19 []() <br>
 20 []() <br>
 21 []() <br>
@@ -68,7 +68,7 @@
 68 []() <br>
 69 []() <br>
 70 []() <br>
-71 []() <br>
+71 [Khushi singh](singhkushi3026) <br>
 72 []() <br>
 73 []() <br>
 74 []() <br>
