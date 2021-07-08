@@ -124,3 +124,6 @@ The CES-MMMUT is released under the under terms of the [MIT License](LICENSE).
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+## 💬Join Our CES Community
+
+Join - https://discord.gg/FVPvDUXfRR
