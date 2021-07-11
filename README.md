@@ -1,4 +1,4 @@
-# CES-MMMUT Presents
+# CES-MMMUT Presents 
 ![CES-MMMUT](https://socialify.git.ci/arpit456jain/Wield-The-Web/image?description=1&descriptionEditable=%20&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Farpit456jain%2FWield-The-Web%2Fmaster%2Fimg%2Fces2.png&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
   [![Number of Contributors](https://img.shields.io/github/contributors/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/graphs/contributors)
   [![Issues opened](https://img.shields.io/github/issues/arpit456jain/Wield-The-Web)](https://github.com/arpit456jain/Wield-The-Web/issues)
@@ -113,7 +113,18 @@ Are you a Newbie in programming and want to dive deep into it?
 </tbody></table>
 <br>
 <hr>
+<h2 align=center> ✨ Contributors </h2>
 
+Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/arpit456jain/Wield-The-Web.github.io/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=arpit456jain/wield-The-Web" />
+</a>
+		</td>
+	</tr>
+</table>
 ## 📘&nbsp; License
 
 The CES-MMMUT is released under the under terms of the [MIT License](LICENSE).
@@ -124,3 +135,6 @@ The CES-MMMUT is released under the under terms of the [MIT License](LICENSE).
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+## 💬Join Our CES Community
+
+Join - https://discord.gg/FVPvDUXfRR
