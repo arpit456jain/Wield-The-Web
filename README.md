@@ -119,8 +119,8 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/arpit456jain/Wield-The-Web.github.io/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=arpit456jain/wield-The-Web" />
+			<a href="https://github.com/arpit456jain/Wield-The-Web/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=arpit456jain/wield-The-web" />
 </a>
 		</td>
 	</tr>
