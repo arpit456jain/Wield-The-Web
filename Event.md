@@ -74,7 +74,7 @@
 74 []() <br>
 75 []() <br>
 76 []() <br>
-77 []() <br>
+77 [Subham Kumar Ojha](altyon-get) <br>
 78 []() <br>
 79 []() <br>
 80 [Nitesh Rawat](connectnitesh) <br>
