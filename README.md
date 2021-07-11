@@ -113,7 +113,18 @@ Are you a Newbie in programming and want to dive deep into it?
 </tbody></table>
 <br>
 <hr>
+<h2 align=center> ✨ Contributors </h2>
 
+Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/arpit456jain/Wield-The-Web.github.io/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=arpit456jain/wield-The-Web" />
+</a>
+		</td>
+	</tr>
+</table>
 ## 📘&nbsp; License
 
 The CES-MMMUT is released under the under terms of the [MIT License](LICENSE).
@@ -127,4 +138,3 @@ The CES-MMMUT is released under the under terms of the [MIT License](LICENSE).
 ## 💬Join Our CES Community
 
 Join - https://discord.gg/FVPvDUXfRR
-hello
