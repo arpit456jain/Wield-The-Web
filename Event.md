@@ -7,7 +7,7 @@
 7 []() <br>
 8 []() <br>
 9 []() <br>
-10 []() <br>
+10 [a]() <br>
 11 []() <br>
 12 []() <br>
 13 []() <br>
@@ -36,7 +36,7 @@
 36 []() <br>
 37 []() <br>
 38 [Deepanjali Vyas](DeepanjaliVyas) <br>
-39 []() <br>
+39 [Satyam Chaurasiya](codesatyam) <br>
 40 []() <br>
 41 []() <br>
 42 []() <br>
@@ -64,32 +64,32 @@
 64 []() <br>
 65 []() <br>
 66 []() <br>
-67 []() <br>
+67 [Ayushi](ayushim13) <br>
 68 []() <br>
 69 []() <br>
-70 []() <br>
+70 [Vishnu Pratap](vishnupratap3790) <br>
 71 []() <br>
 72 []() <br>
 73 []() <br>
 74 []() <br>
 75 []() <br>
 76 []() <br>
-77 []() <br>
+77 [Subham Kumar Ojha](altyon-get) <br>
 78 []() <br>
 79 []() <br>
-80 []() <br>
+80 [Nitesh Rawat](connectnitesh) <br>
 81 []() <br>
 82 []() <br>
 83 []() <br>
-84 []() <br>
+84 [Arpit Jain](arpit456jain) <br>
 85 []() <br>
 86 []() <br>
 87 []() <br>
 88 []() <br>
-89 []() <br>
+89 [ARYAN BARSAIYAN](AryanBarsaiyan) <br>
 90 []() <br>
 91 []() <br>
-92 []() <br>
+92 [Abhay Singh](deltaTH) <br>
 93 []() <br>
 94 []() <br>
 95 []() <br>
