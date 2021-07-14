@@ -107,10 +107,15 @@ Are you a Newbie in programming and want to dive deep into it?
 
 <h1 align=center> Winners 😃 </h1>
 <p align="center">
-<tbody><tr>
-    
-</tr>
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="70px;">
+	<br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
+
+  </tr>
+
 </tbody></table>
+
 <br>
 <hr>
 <h2 align=center> ✨ Contributors </h2>
