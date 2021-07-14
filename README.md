@@ -109,9 +109,27 @@ Are you a Newbie in programming and want to dive deep into it?
 <p align="center">
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="70px;">
-	<br><sub><b> Arpit Jain</b></sub><br>💻 </a></td></a></td>
+    <td align="center"><a href="https://github.com/altyon-get "><img alt="" src="https://avatars.githubusercontent.com/altyon-get " width="70px;">
+	<br><sub><b> Shubham Kumar Ojha </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/akritisrivastava2"><img alt="" src="https://avatars.githubusercontent.com/akritisrivastava2" width="70px;">
+	<br><sub><b> Akriti Srivastava </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/ayushim13"><img alt="" src="https://avatars.githubusercontent.com/ayushim13" width="70px;">
+	<br><sub><b>Ayushi Mishra </b></sub><br>💻 </a></td></a></td>
+  </tr>
 
+</tbody></table>
+
+<br>
+<h1 align=center> Special Appreciation 😃 </h1>
+<p align="center">
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/Mahesh707186 "><img alt="" src="https://avatars.githubusercontent.com/Mahesh707186 " width="70px;">
+	<br><sub><b> Mahesh Chaubey </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/Satwick17"><img alt="" src="https://avatars.githubusercontent.com/Satwick17" width="70px;">
+	<br><sub><b> Satwick Deep Verma </b></sub><br>💻 </a></td></a></td>
+	<td align="center"><a href="https://github.com/connectnitesh"><img alt="" src="https://avatars.githubusercontent.com/connectnitesh" width="70px;">
+	<br><sub><b>Nitesh Rawat </b></sub><br>💻 </a></td></a></td>
   </tr>
 
 </tbody></table>
