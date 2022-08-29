@@ -49,7 +49,7 @@ Are you a Newbie in programming and want to dive deep into it?
 (In Place of link paste the link you copied)
 
 <li><h3>Project Cloned in System</h3></li>
-<li><h3>Make Required changes on a new branch and then commit your chnages by </h3></li>
+<li><h3>Make Required changes on a new branch and then commit your changes by </h3></li>
 
 `$ git checkout -b branchname`
 
